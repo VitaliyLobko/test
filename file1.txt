@@ -1,5 +1,4 @@
-1 line
-commit test
+new
 
 456
 789.
