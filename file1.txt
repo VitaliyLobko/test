@@ -1,6 +1,1 @@
-1 line
-commit test
-
-456
-789.
-last line
+1
